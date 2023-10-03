@@ -8,6 +8,5 @@ setup(
     version='0.0.1',
     url='https://github.com/BustosMaxx/humai_utils.git',
     license='MIT',
-    packages='src',
     install_requires=['os','re'],
 )
