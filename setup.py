@@ -5,7 +5,7 @@ setup(
     packages=find_packages(),
     description='Se estar realizando la practica del curso de desarrollo python ',
     author='Bustos Maximiliano Miguel',
-    version='0.0.1'
+    version='0.0.1',
     url='https://github.com/BustosMaxx/humai_utils.git',
     license='MIT',
     packages=['humai_utils']
